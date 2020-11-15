@@ -104,7 +104,7 @@ La documentation technique du back, du front et de la base de donnée ainsi que 
 ## L'équipe
 
 Vous êtes curieux de savoir qui a travaillé sur le projet  
-[Lotfi Doucanef](https://github.com/Lotfi93330)  
+[Lotfi Doucanef](https://github.com/Lotfi-D)  
 [Gacem Ben ayad](https://github.com/2gacem7)  
 [YohannEpitech](https://github.com/YohannEpitech)   
 [Kevin Bridonneau](https://github.com/Kevin-Bridonneau)  
